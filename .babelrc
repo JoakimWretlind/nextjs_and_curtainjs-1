@@ -1,0 +1,10 @@
+// this file helps prevent warnings like "Warning: Prop `className` did not match."
+// disables swc
+{
+    "presets": [
+        "next/babel"
+    ],
+    "plugins": [
+        "styled-components"
+    ]
+}
