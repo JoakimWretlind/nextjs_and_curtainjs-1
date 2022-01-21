@@ -145,12 +145,3 @@ function SimplePlane() {
 }
 
 export default SimplePlane
-
-
-/**
- * <Img
-                src="https://unsplash.it/1920/1080?random=1"
-                data-sampler="simplePlaneTexture"
-                alt=""
-            />
- */
