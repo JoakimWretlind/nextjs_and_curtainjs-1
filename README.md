@@ -6,7 +6,7 @@
 
 <h3>About</h3>
 An image that uses the curtain-effect when the mouse is moved.
-The keep in this project is the integration with curtain.js to next.js
+The keep in this project is the integration with curtain.js to next.js.
 
 <h3>To Run</h3>
 
